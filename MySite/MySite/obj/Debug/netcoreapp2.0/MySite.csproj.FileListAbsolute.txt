@@ -1,0 +1,11 @@
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\bin\Debug\netcoreapp2.0\MySite.deps.json
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\bin\Debug\netcoreapp2.0\MySite.runtimeconfig.json
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\bin\Debug\netcoreapp2.0\MySite.runtimeconfig.dev.json
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\bin\Debug\netcoreapp2.0\MySite.dll
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.csprojResolveAssemblyReference.cache
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.csproj.CoreCompileInputs.cache
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.AssemblyInfoInputs.cache
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.AssemblyInfo.cs
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\bin\Debug\netcoreapp2.0\MySite.pdb
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.dll
+C:\Users\ноутбук\Documents\Visual Studio 2017\Projects\MySite\MySite\obj\Debug\netcoreapp2.0\MySite.pdb
